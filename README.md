@@ -5,10 +5,10 @@ This is the repository that contains source code for the [PARSE-ego4D website](h
 If you find PARSE-ego4D useful for your work please cite:
 ```
 @article{abreu2024parseego4d
-  author    = {Abreu, Steve and Do, Tiffany ...},
-  title     = {PARSE-ego4D:},
+  author    = {Abreu, Steven and Do, Tiffany and Ahuja, Karan and Gonzalez, Eric J and Payne, Lee and McDuff, daniel and Gonzalez-Franco, Mar},
+  title     = {PARSE-Ego4D Personal Action Recommendation Suggestions for Egocentric Videos},
   journal   = {},
-  year      = {},
+  year      = {2024},
 }
 ```
 
