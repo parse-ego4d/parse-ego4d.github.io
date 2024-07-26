@@ -1,8 +1,8 @@
-# PARSE-ego4D
+# PARSE-Ego4D
 
-This is the repository that contains source code for the [PARSE-ego4D website](https://PARSE-ego4D.github.io).
+This is the repository that contains source code for the [PARSE-Ego4D website](https://PARSE-ego4D.github.io).
 
-If you find PARSE-ego4D useful for your work please cite:
+If you find PARSE-Ego4D useful for your work please cite:
 ```
 @article{abreu2024parseego4d
   author    = {Abreu, Steven and Do, Tiffany and Ahuja, Karan and Gonzalez, Eric J and Payne, Lee and McDuff, daniel and Gonzalez-Franco, Mar},
