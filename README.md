@@ -2,6 +2,8 @@
 
 This is the repository that contains source code for the [PARSE-Ego4D website](https://PARSE-ego4D.github.io).
 
+![PARSE-Ego4D Demo](./webcontent/images/fig2.png)
+
 If you find PARSE-Ego4D useful for your work please cite:
 ```
 @article{abreu2024parseego4d
